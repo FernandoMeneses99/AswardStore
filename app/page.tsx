@@ -1,5 +1,6 @@
 import { Header } from '@/src/ui/components/header';
 import { Hero } from '@/src/ui/components/hero';
+import { Analytics } from "@vercel/analytics/next"
 
 export default function HomePage() {
   return (
