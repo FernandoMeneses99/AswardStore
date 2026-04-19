@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import "flowbite-react/dist/plugin/tailwindcss";
-@source "../.flowbite-react/class-list.json";
+@import "flowbite-react/plugin/tailwindcss";
+@source "./node_modules/flowbite-react/class-list.json";
 
 :root {
   /* Shopify Dark-First Palette */
